@@ -4,10 +4,12 @@ class Routes
   require "#{base_path}/controller/task_controller.rb"
 
   puts "アクションを選択してください"
-  acction = gets.chomp
+  action = gets.chomp
 
-  if acction == 'index'
+  if action == 'index'
     puts TaskController.index
+  elsif action == 'show'
+    puts TaskController.show
   end
 
 end

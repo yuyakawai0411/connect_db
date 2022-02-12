@@ -1,8 +1,8 @@
 # 機能
 - Get
-  - Task一覧を表示できる
+  - [x]Task一覧を表示できる
 - Show
-  - Taskを選択したら、そのTaskに紐ずくMemoを表示できる
+  - [x]Taskを選択したら、そのTaskに紐ずくMemoを表示できる
 - New Create
   - Taskを作成できる
   - Memoを作成できる

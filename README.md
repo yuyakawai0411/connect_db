@@ -3,10 +3,10 @@
   - [x]Task一覧を表示できる
 - Show
   - [x]Taskを選択したら、そのTaskに紐ずくMemoを表示できる
-- New Create
+- Create
   - Taskを作成できる
   - Memoを作成できる
-- Edit Update
+- Update
   - Taskを編集できる
   - Memoを編集できる
 - Delete
